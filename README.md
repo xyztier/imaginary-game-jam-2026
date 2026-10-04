@@ -23,6 +23,7 @@ My individual twist: **Failure**
 
 
 ## Attributions
+- Code: [Godot Circular Container](https://www.youtube.com/watch?v=kujEADRYZwo&t=192s)
 - Font: [BrookeShappell8](https://www.fontspace.com/brookeshappell8-font-f15898)
 - BGM: "On The Road" (Imaginary Game Jam Community Asset Pack)
 - SFX:
