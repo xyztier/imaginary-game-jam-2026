@@ -1,7 +1,8 @@
 # Magic Engineering
 Entry for the [Imaginary Game Jam 2026](https://itch.io/jam/imaginary-game-jam-2026)
-Placement: ?
-Award: Most Imaginative (source: [this video](https://www.youtube.com/watch?v=Rf9KVIp6D9g&t=215s))
+
+Community placement: **?**
+Award: **Most Imaginative** (source: [this video](https://www.youtube.com/watch?v=Rf9KVIp6D9g&t=215s))
 
 The main theme: **Magical Research**  
 My individual twist: **Failure**
